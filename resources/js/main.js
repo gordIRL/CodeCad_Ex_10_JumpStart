@@ -1,19 +1,9 @@
- //alert("It has worked")
+                                  //alert("It has worked")
 
 
 $(document).ready(function(){
 
-  alert("hello");
-
-
-
-
-
-
-/*
-    $('.container').css('background-color', 'red');
-    */
-
+                                  //alert("hello");
 
     $('.carousel').slick({
       autoplay: true,
